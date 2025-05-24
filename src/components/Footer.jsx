@@ -15,7 +15,7 @@ const Footer = () => {
                 </a>
             </p>
             <Stack direction="row" spacing={2} sx={{ p: "20px 6px 0", justifyContent: "center" }}>
-                <a href="https://github.com/mymehrnaz/nemomeh-kar/tree/main" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/mymehrnaz/my-app-aks/tree/main" target="_blank" rel="noopener noreferrer">
                     <GitHubIcon />
                 </a>
                 <a href="mailto:mehrnazsadeghian8968@gmail.com" target="_blank" rel="noopener noreferrer">
